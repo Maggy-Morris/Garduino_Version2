@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:garduino_dashboard/pages/home/home_page.dart';
 import 'package:garduino_dashboard/widgets/menu.dart';
-import 'package:garduino_dashboard/Responsive.dart';
+ import 'package:garduino_dashboard/widgets/responsive.dart';
 
 class DashBoard extends StatelessWidget {
   DashBoard({super.key});

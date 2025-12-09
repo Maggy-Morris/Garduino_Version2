@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:garduino_dashboard/const.dart';
-import 'package:garduino_dashboard/responsive.dart';
+import 'package:garduino_dashboard/widgets/responsive.dart';
 
 class Header extends StatelessWidget {
   const Header({

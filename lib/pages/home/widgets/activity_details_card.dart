@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:garduino_dashboard/Responsive.dart';
+import 'package:garduino_dashboard/widgets/responsive.dart';
 import 'package:garduino_dashboard/model/health_model.dart';
 import 'package:garduino_dashboard/widgets/custom_card.dart';
 import 'package:flutter_svg/svg.dart';

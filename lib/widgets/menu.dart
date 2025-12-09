@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:garduino_dashboard/Responsive.dart';
+import 'package:garduino_dashboard/widgets/responsive.dart';
 import 'package:garduino_dashboard/main.dart';
 import 'package:garduino_dashboard/model/menu_modal.dart';
 import 'package:flutter_svg/svg.dart';

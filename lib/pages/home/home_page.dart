@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:garduino_dashboard/pages/home/widgets/header_widget.dart';
-import 'package:garduino_dashboard/responsive.dart';
+import 'package:garduino_dashboard/widgets/responsive.dart';
 import 'package:garduino_dashboard/pages/home/widgets/activity_details_card.dart';
 import 'package:garduino_dashboard/pages/home/widgets/bar_graph_card.dart';
 import 'package:garduino_dashboard/pages/home/widgets/line_chart_card.dart';
