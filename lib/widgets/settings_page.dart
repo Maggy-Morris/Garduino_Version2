@@ -6,7 +6,7 @@ class SettingsPage2 extends StatefulWidget {
   @override
   State<SettingsPage2> createState() => _SettingsPage2State();
 }
-
+ 
 class _SettingsPage2State extends State<SettingsPage2> {
   //bool _isDark = false;
   bool _isLight = false;
